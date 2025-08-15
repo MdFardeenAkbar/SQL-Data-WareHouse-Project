@@ -99,4 +99,4 @@ Hi there! I'm **Md Fardeen Akbar**. I’m a passionate Data Analyst and a studen
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen-akbar-418706216/)
-[![Github](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/MdFardeenAkbar)
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdFardeenAkbar)
